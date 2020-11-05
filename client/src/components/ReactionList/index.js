@@ -18,6 +18,7 @@ const ReactionList = ({ reactions }) => {
             </p>
         ))}
     </div>
+    
     </div>
   );
 };
